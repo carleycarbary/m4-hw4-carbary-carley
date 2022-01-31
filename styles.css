@@ -32,8 +32,9 @@ body {
     height: auto;
   }
 ol {
-    text-align: center;
+    text-align: left;
     color: yellow;
+    font-size: 25px;
 }
 p {
     font-family: "Times New Roman", Times, serif;
